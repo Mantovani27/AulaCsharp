@@ -10,7 +10,7 @@ namespace Calculadorapro
         public static decimal resultado = 0;
         static void Main(string[] args)
         {
-            Console.WriteLine("Seja Bem-vindo à Calculadora!");
+            Console.WriteLine("Seja Bem-vindo b Calculadora!");
             bool tentarDnovo = true;
             while (tentarDnovo == true)
             {
